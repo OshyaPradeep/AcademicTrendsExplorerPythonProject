@@ -1,17 +1,26 @@
-Academic Trends Explorer
-Academic Trends Explorer is a data analysis project that focuses on student performance, degree distribution, and placement insights using Python and exploratory data analysis (EDA) techniques.
+🎓 Academic Trends Explorer
+📊 Transforming student data into actionable insights through data analysis & visualization
 
-Data Cleaning & Preprocessing:  
-  Handles missing values, standardizes degree names, and converts fees from USD to INR.  
-  Drops columns with excessive missing values (Backlog).  
-  Fills missing numerical values (Marks) using the mean.  
-  Sets ID as the index for structured data representation.
+✨ Project Overview
+Academic Trends Explorer is a Python-based data analysis project that explores student performance trends, degree distribution, and placement insights using data cleaning, preprocessing, and visual storytelling.
 
-Exploratory Data Analysis (EDA):  
-  Generates pie charts for degree distribution.  
-  Plots histograms to analyze marks distribution.  
-  Uses count plots to visualize student performance trends.
+🔍 Key Features
+✅ Data Cleaning & Preprocessing
 
-Exporting & Documentation:  
-  Saves cleaned data into an Excel file (AcademicTrendsExplorer.xlsx).  
-  Provides structured documentation of analytical insights.  
+Handles missing values & standardizes degree names
+
+Converts fees from USD to INR
+
+Drops columns with excessive missing values (Backlog)
+
+📊 Exploratory Data Analysis (EDA)
+
+Pie charts: Visualize degree distribution
+
+Histograms: Analyze marks variation
+
+Count plots: Identify trends in placement & performance
+
+💾 Data Export
+Saves cleaned dataset into an Excel file  Saves cleaned data into an Excel file (AcademicTrendsExplorer.xlsx).  
+Provides structured documentation of analytical insights.  
